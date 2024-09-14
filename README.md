@@ -44,7 +44,7 @@ Apply AI to solve real-world problems in diverse domains.
 <h2 align="left">Connect with me:</h2>
 <ul>
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/rahulrayi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/rahulrayi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 </p>
 </ul>
 
