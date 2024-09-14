@@ -13,7 +13,7 @@ I have completed my Bachelor’s degree in Mechanical Engineering. I am currentl
 🌱 Learning more about TensorFlow, Keras, Matplotlib, NumPy, Pandas, and Seaborn.
 
 ### 🚀 My Journey
-With a background in the Oil & Gas domain, I am now focused on applying AI-driven technologies to various real-world challenges. My transition into AI has been driven by a passion for solving complex problems using cutting-edge technologies.
+  I am now focused on applying AI-driven technologies to various real-world challenges. My transition into AI has been driven by a passion for solving complex problems using cutting-edge technologies.
  
 ### 🔭 Currently Learning
 LLMs (Large Language Models): Understanding and experimenting with the latest in NLP technologies.
