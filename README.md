@@ -37,8 +37,7 @@ Build more real-time deep learning applications.
 Contribute to open-source projects in AI and Machine Learning.
 
 Apply AI to solve real-world problems in diverse domains.
-
-
+ 
 
 
 <h3 align="left">Connect with me:</h3>
