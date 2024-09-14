@@ -39,16 +39,15 @@ Contribute to open-source projects in AI and Machine Learning.
 Apply AI to solve real-world problems in diverse domains.
 
 
----
-<h2 align="left">Connect with me:</h2>
-<ul>
+
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/rahulrayi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rahulrayi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahulrayi/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/rayirahul67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/rayirahul67" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/rayirahul67/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/rayirahul67/" height="30" width="40" /></a>
 </p>
-</ul>
 
-
----
 <!-- Languages -->
 <h2 align="left">Languages</h2>
 <ul>
@@ -65,38 +64,15 @@ Apply AI to solve real-world problems in diverse domains.
 <!-- Tools -->
 <h2 align="left">Tools</h2>
 
-<!-- Cloud Platforms -->
-<h3>- Cloud Platforms</h3>
-<ul>
-  <p align="left">
-    <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" width="50" height="50"/>
-      Azure
-    </a>&nbsp;&nbsp;
-    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="50" height="50"/>
-      AWS
-    </a>
-  </p>
-</ul>
-
 <!-- MLOps Tools -->
 <h3>- MLops Tools</h3>
 <ul>
   <p align="left">
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" height="50"/>
-      Docker
-    </a>&nbsp;&nbsp;
-    <!-- Add more MLOps tools here as required -->
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img src="https://tse1.mm.bing.net/th?id=OIP.q5y_L6AJmodoXnmMkbmWlQHaHa&pid=Api&P=0&h=180" width="50" height="50"/>
       Git
     </a>&nbsp;&nbsp;
-    <!-- Add more MLOps tools here as required -->
-    <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-      <img src="https://tse3.explicit.bing.net/th?id=OIP.wOMtZQ4cb_gxIZ1HkiKOfwHaDw&pid=Api&P=0&h=180" width="50" height="50"/>
-      Kubernetes
+    
   </p>
 </ul>
 
