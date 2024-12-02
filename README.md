@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 ## I'm Rahul Rayi.
 
-I am a fresher exploring the exciting world of Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL). After leaving my job in mechanical engineering  in Oil & Gas industry domain, where I gained valuable domain knowledge, I have fully committed myself to mastering AI technologies and advancing my career in this field.
+I am a Data Science Enthusiast exploring the exciting world of Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL). After leaving my job in mechanical engineering  in Oil & Gas industry domain, where I gained valuable domain knowledge, I have fully committed myself to mastering AI technologies and advancing my career in this field.
 
 ### 👨‍🎓 About Me
 I have completed my Bachelor’s degree in Mechanical Engineering. I am currently pursuing an Executive Post Graduation Certification in AI and ML from IIT Roorkee, in collaboration with Intellipaat.
